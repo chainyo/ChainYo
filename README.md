@@ -7,11 +7,15 @@
 
 - 📫 How to reach me **t.chaigneau.tc@gmail.com**
 
+---
+
 ### ⭐ Greatest Achievements
 
 - Deployed the first Computer Vision model in production by training a model from scratch, building an API and deploying it on company private servers.
 - Contributed to develop, document and extend the use of an internal ML app deployment template.
 - Developped multiple applications to showcase ML usage with coworkers by building and deploying [Streamlit](https://streamlit.io/) apps.
+
+---
 
 <table>
     <thead>
@@ -115,6 +119,8 @@
     </tbody>
 </table>
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15273935/thomas-chaigneau" target="blank">
@@ -131,4 +137,4 @@
     </a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chainyo&show_icons=true&locale=en" alt="chainyo" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chainyo&show_icons=true&locale=en" alt="chainyo" /></p>
