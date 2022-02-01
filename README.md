@@ -32,7 +32,7 @@
                 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
               </a>
               <a href="https://www.pytorchlightning.ai/" target="_blank" rel="noreferrer"> 
-                <img src="//logo.clearbit.com/pytorchlightning.ai" alt="pytorch-lightning" width="40" height="40"/> 
+                <img src="https://logo.clearbit.com/pytorchlightning.ai" alt="pytorch-lightning" width="40" height="40"/> 
               </a>
               <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
