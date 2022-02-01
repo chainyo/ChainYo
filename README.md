@@ -42,6 +42,8 @@
               </a>
             </p>
           </td>
+        </tr>
+        <tr>
           <td>Data Visualisation</td>
           <td>
             <p align="left">
@@ -56,6 +58,8 @@
               </a>
             </p>
           </td>
+        </tr>
+        <tr>
           <td>Cloud & CI</td>
           <td>
             <p align="left"> 
@@ -73,6 +77,8 @@
               </a>
             </p>
           </td>
+        </tr>
+        <tr>
           <td>Databases</td>
           <td>
             <p align="left">
@@ -93,6 +99,8 @@
               </a>
             </p>
           </td>
+        </tr>
+        <tr>
           <td>Frameworks/Packages</td>
           <td>
             <p align="left">
