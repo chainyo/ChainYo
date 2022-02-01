@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thomas Chaigneau</h1>
+<h1 align="center">Welcome 🤗, I'm Thomas Chaigneau</h1>
 <h3 align="center">A passionate AI dev/ML Engineer from France</h3>
 
 - 🔭 I’m currently working on [Make Us Rich](https://github.com/ChainYo/make-us-rich) (Cryptocurrencies forecasting training and serving models automated!)
@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **t.chaigneau.tc@gmail.com**
 
-<table>
+⭐ 
+
+<table align="center">
     <thead>
         <tr>
             <th colspan="2">Languages and Tools</th>
@@ -110,11 +112,19 @@
 </table>
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15273935/thomas-chaigneau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15273935/thomas-chaigneau" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/thomaschaigneau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/thomaschaigneau" height="30" width="40" /></a>
-<a href="https://medium.com/@thomas.chaigneau.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thomas.chaigneau.dev" height="30" width="40" /></a>
-<a href="https://discord.gg/ChainYo#3610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ChainYo#3610" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15273935/thomas-chaigneau" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15273935/thomas-chaigneau" height="30" width="40" />
+    </a>
+    <a href="https://kaggle.com/https://www.kaggle.com/thomaschaigneau" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/thomaschaigneau" height="30" width="40" />
+    </a>
+    <a href="https://medium.com/@thomas.chaigneau.dev" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thomas.chaigneau.dev" height="30" width="40" />
+    </a>
+    <a href="https://discord.gg/ChainYo#3610" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ChainYo#3610" height="30" width="40" />
+    </a>
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chainyo&show_icons=true&locale=en" alt="chainyo" /></p>
