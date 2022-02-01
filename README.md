@@ -17,29 +17,34 @@
 <a href="https://discord.gg/ChainYo#3610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ChainYo#3610" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">
-  Languages and Tools: 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-</h3>
-
-<p align="center">
-#### Machine Learning
-<p align="left">
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a>
-</p>
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">Languages and Tools</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Machine Learning</td>
+            <td>
+              <p align="left">
+                <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+                  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+                </a>
+                <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+                  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+                </a>
+                <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+                  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+                </a>
+                <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+                </a>
+              </p>
+          </td>
+        </tr>
+    </tbody>
+</table>
 
 #### Data Visualisation
 <p align="left">
@@ -68,7 +73,6 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
   </a>
-</p>
 </p>
   
 #### Databases
