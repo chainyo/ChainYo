@@ -49,7 +49,7 @@
           </td>
         </tr>
         <tr>
-          <td>Data Visualisation</td>
+          <td>Data Visualisation / Monitoring</td>
           <td>
             <p align="left">
               <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
@@ -60,6 +60,12 @@
               </a>
               <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
+              </a>
+              <a href="https://wandb.ai/site" target="_blank" rel="noreferrer"> 
+                <img src="https://github.com/wandb/assets/blob/main/wandb-dots-logo.svg" alt="wandb" width="40" height="40"/> 
+              </a>
+              <a href="https://www.tensorflow.org/tensorboard" target="_blank" rel="noreferrer"> 
+                <img src="https://www.tensorflow.org/site-assets/images/project-logos/tensorboard-logo-social.png" alt="tensorboard" width="40" height="40"/> 
               </a>
             </p>
           </td>
