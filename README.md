@@ -39,11 +39,14 @@
               <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
               </a>
-              <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+              <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
+                <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface-tools" width="40" height="40"/> 
               </a>
               <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
                 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+              </a>
+              <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
               </a>
             </p>
           </td>
