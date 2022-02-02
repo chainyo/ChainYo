@@ -58,6 +58,9 @@
               <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
                 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
               </a>
+              <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://camo.githubusercontent.com/50181d33f193cdd1730f6413365521f06b2c4b76048759e89cf7847629fb3541/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d6174706c6f746c69622d69636f6e2e737667" alt="matplotlib" width="40" height="40"/> 
+              </a>
               <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
               </a>
@@ -79,6 +82,12 @@
               </a>
               <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
+              </a>
+              <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="gitlab-ci" width="40" height="40"/> 
+              </a>
+              <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
+                <img src="https://camo.githubusercontent.com/5e86afd16a93f1249f4b8d31783e110da71fd7ded147f2fc957320b39f842f34/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769746875622d616374696f6e732e737667" alt="github-actions" width="40" height="40"/> 
               </a>
               <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
