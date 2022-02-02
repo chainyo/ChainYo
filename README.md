@@ -119,7 +119,7 @@
                 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fastapi.svg" alt="fastapi" width="40" height="40"/> 
               </a>
               <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
-                <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="40" height="40"/> 
+                <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> 
               </a>
               <a href="https://gradio.app/" target="_blank" rel="noreferrer"> 
                 <img src="https://www.freecodecamp.org/news/content/images/2022/01/gradio-image-2.png" alt="gradio" width="40" height="40"/> 
