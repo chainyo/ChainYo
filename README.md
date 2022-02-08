@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 🤗, I'm Thomas Chaigneau</h1>
 <h3 align="center">A passionate ML Engineer from France</h3>
 
-- 🔭 I’m currently working on [Make Us Rich](https://github.com/ChainYo/make-us-rich) (Cryptocurrencies forecasting 📈 training and serving models automated!)
+- 🔭 I’m currently working on [Make Us Rich](https://github.com/ChainYo/make-us-rich) (Cryptocurrencies forecasting 📈 training and serving models made automatic!)
 
 - 🌱 I’m currently learning **AWS Certifications, Kubernetes & Transformers finetuning**
 
