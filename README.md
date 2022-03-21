@@ -19,6 +19,12 @@
 
 ---
 
+### 📚 Latest Medium Story
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
+
+---
+
 <table>
     <thead>
         <tr>
