@@ -161,7 +161,7 @@
     <a href="https://kaggle.com/https://www.kaggle.com/thomaschaigneau" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/thomaschaigneau" height="30" width="40" />
     </a>
-    <a href="https://medium.com/@thomas.chaigneau.dev" target="blank">
+    <a href="https://medium.com/@thomas.chaigneau.ai" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thomas.chaigneau.dev" height="30" width="40" />
     </a>
     <a href="https://discord.gg/ChainYo#3610" target="blank">
