@@ -11,9 +11,9 @@
 
 ### 🏆 Greatest Achievements
 
+- Created a working group [`ONNXConfig for all`](https://huggingface.co/OWG) to implement ONNX configuration for all available models of the hub.
 - Deployed the first Computer Vision model in production by training a model from scratch, building an API and deploying it on the company private servers.
-- Collaborated on the training of one instance segmentation model to detect fish for an open source project during [Ocean Hackathon Brest](https://www.campusmer.fr/Home-4185-0-0-0.html), Oct. 2021.
-- Contributed to develop, document and extend the use of an internal ML app deployment template.
+- Collaborated on the training of one [instance segmentation model](https://youtu.be/HnbFB3h_AAg) to detect fish for an open source project during [Ocean Hackathon Brest](https://www.campusmer.fr/Home-4185-0-0-0.html), Oct. 2021.
 - Co-founded the [Brest AWS User Meetup Group](https://www.meetup.com/Brest-AWS-User-Group/) in partnership with AWS, Jan 2022.
 - Developped multiple applications to showcase ML usage with coworkers by building and deploying [Streamlit](https://streamlit.io/) apps.
 
