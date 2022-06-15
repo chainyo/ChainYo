@@ -1,11 +1,11 @@
 <h1 align="center">Welcome 🤗, I'm Thomas Chaigneau</h1>
 <h3 align="center">A passionate ML Engineer from France</h3>
 
-- 🔭 I’m currently working on [Make Us Rich](https://github.com/ChainYo/make-us-rich) (Cryptocurrencies forecasting 📈 training and serving models made automatic!)
+- 🔭 I’m currently working on [deeptools.ai](https://github.com/deeptools-ai) - Take your Deep Learning tasks to a new level with the easiest and fastest tools.
 
-- 🌱 I’m currently learning **AWS Certifications, Kubernetes & Transformers finetuning**
+- 🌱 I’m currently learning **SegFormer finetuning, GAN training & Cloud architecture provisioning.**
 
-- 📫 How to reach me **t.chaigneau.tc@gmail.com**
+- 📫 How to reach me **thomas@deeptools.ai**
 
 ---
 
