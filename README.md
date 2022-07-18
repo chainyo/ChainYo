@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 🤗, I'm Thomas Chaigneau</h1>
+<h1 align="center">Welcome, I'm Thomas Chaigneau</h1>
 <h3 align="center">🤗 Hugging Face Fellow, and Machine Learning Engineer from France</h3>
 
 - 🔭 I’m currently working on [deeptools.ai](https://github.com/deeptools-ai) - Sharpen your Deep Learning tasks with easy and fast tools.
