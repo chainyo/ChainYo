@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 🤗, I'm Thomas Chaigneau</h1>
-<h3 align="center">A passionate ML Engineer from France</h3>
+<h3 align="center">🤗 Hugging Face Fellow, and Machine Learning Engineer from France</h3>
 
-- 🔭 I’m currently working on [deeptools.ai](https://github.com/deeptools-ai) - Take your Deep Learning tasks to a new level with the easiest and fastest tools.
+- 🔭 I’m currently working on [deeptools.ai](https://github.com/deeptools-ai) - Sharpen your Deep Learning tasks with easy and fast tools.
 
 - 🌱 I’m currently learning **SegFormer finetuning, GAN training & Cloud architecture provisioning.**
 
@@ -11,6 +11,7 @@
 
 ### 🏆 Greatest Achievements
 
+- Joined the 🤗 Hugging Face Fellowship program to pursue my open-source journey sponsored by the bests.
 - Created a working group [`ONNXConfig for all`](https://huggingface.co/OWG) to implement ONNX configuration for [all available models]((https://github.com/huggingface/transformers/issues/16308)) of the Hugging Face's hub.
 - Deployed the first Computer Vision model in production by training a model from scratch, building an API and deploying it on the company private servers.
 - Collaborated on the training of one [instance segmentation model](https://youtu.be/HnbFB3h_AAg) to detect fish for an open source project during [Ocean Hackathon Brest](https://www.campusmer.fr/Home-4185-0-0-0.html), Oct. 2021.
