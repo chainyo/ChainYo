@@ -1,9 +1,9 @@
-<h1 align="center">Welcome, I'm Thomas Chaigneau</h1>
-<h3 align="center">🤗 Hugging Face Fellow, and Machine Learning Engineer from France</h3>
+<h1 align="center">Welcome, I'm Thomas Chaigneau from France</h1>
+<h3 align="center">ML Engineer @CMArkea, Developer Evangelist @Wordcab & 🤗 Hugging Face Fellow</h3>
 
-- 🔭 I’m currently working on [deeptools.ai](https://github.com/deeptools-ai) - Sharpen your Deep Learning tasks with easy and fast tools.
+- 🔭 I’m currently working on [Wordcab](https://github.com/wordcab) - Developing Guides and a Python package.
 
-- 🌱 I’m currently learning **SegFormer finetuning, GAN training & Cloud architecture provisioning.**
+- 🌱 I’m currently learning **Async with Python, ML models optimization and Software design patterns.**
 
 - 📫 How to reach me **thomas@deeptools.ai**
 
