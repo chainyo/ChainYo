@@ -22,6 +22,7 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Building and Launching Your Discord Bot: A Step-by-Step Guide](https://medium.com/@thomaschaigneau.ai/building-and-launching-your-discord-bot-a-step-by-step-guide-f803f7943d33?source=rss-9e928cd81db0------2)
 - [Build a Python industry-grade package](https://medium.com/@thomaschaigneau.ai/build-a-python-industry-grade-package-88c7fd64c1af?source=rss-9e928cd81db0------2)
 - [Boost any Machine Learning model with ONNX conversion](https://towardsdatascience.com/boost-any-machine-learning-model-with-onnx-conversion-de34e1a38266?source=rss-9e928cd81db0------2)
 - [NLP Transformers pipelines with ONNX](https://towardsdatascience.com/nlp-transformers-pipelines-with-onnx-9b890d015723?source=rss-9e928cd81db0------2)
