@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I'm Thomas Chaigneau from France</h1>
-<h3 align="center">ML Engineer @CMArkea, Developer Evangelist @Wordcab & 🤗 Hugging Face Fellow</h3>
+<h3 align="center">ML Developer Evangelist @Wordcab & 🤗 Hugging Face Fellow</h3>
 
 - 🔭 I’m currently working on [Wordcab](https://github.com/wordcab) - Developing Guides and a Python package.
 
