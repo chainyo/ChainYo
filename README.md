@@ -1,11 +1,11 @@
 <h1 align="center">Welcome, I'm Thomas Chaigneau from France</h1>
 <h3 align="center">ML Developer Evangelist @Wordcab & 🤗 Hugging Face Fellow</h3>
 
-- 🔭 I’m currently working on [Wordcab](https://github.com/wordcab) - Developing Guides and a Python package.
+- 🔭 I’m currently working on [Wordcab](https://github.com/wordcab)
 
-- 🌱 I’m currently learning **Async with Python, ML models optimization and Software design patterns.**
+- 🌱 I’m currently learning **RLHF, Argila and Rust basics.**
 
-- 📫 How to reach me **thomas@deeptools.ai**
+- 📫 How to reach me **t.chaigneau.tc@gmail.com**
 
 ---
 
