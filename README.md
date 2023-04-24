@@ -1,9 +1,9 @@
 <h1 align="center">Welcome, I'm Thomas Chaigneau from France</h1>
 <h3 align="center">ML Developer Evangelist @Wordcab & 🤗 Hugging Face Fellow</h3>
 
-- 🔭 I’m currently working on [Wordcab](https://github.com/wordcab)
+- 🔭 I’m currently working on [aiha](https://github.com/chainyo/aiha)
 
-- 🌱 I’m currently learning **RLHF, Argila and Rust basics.**
+- 🌱 I’m currently learning **Rust, RLHF and doing great maté.**
 
 - 📫 How to reach me **t.chaigneau.tc@gmail.com**
 
