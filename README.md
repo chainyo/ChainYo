@@ -180,4 +180,4 @@
     </a>
 </p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chainyo&show_icons=true&locale=en" alt="chainyo" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chainyo&show_icons=true&locale=en&theme=calm" alt="chainyo" /></p>
