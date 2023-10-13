@@ -1,5 +1,5 @@
-<h1 align="center">Welcome, I'm Thomas Chaigneau from France</h1>
-<h3 align="center">Machine Learning Engineer @Wordcab & 🤗 Hugging Face Fellow</h3>
+<h1 align="center">Welcome, I'm Thomas Chaigneau from 🇫🇷France</h1>
+<h3 align="center">Machine Learning Engineer @Owkin & 🤗 Hugging Face Fellow</h3>
 
 - 🔭 I’m currently working on [tensorshare](https://github.com/chainyo/tensorshare), [wordcab-transcribe](https://github.com/Wordcab/wordcab-transcribe) and [Rate That ASR](https://github.com/Wordcab/rtasr)
 
