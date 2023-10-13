@@ -1,7 +1,7 @@
-<h1 align="center">Welcome, I'm Thomas Chaigneau from 🇫🇷France</h1>
+<h1 align="center">Welcome, I'm Thomas Chaigneau from France 🇫🇷</h1>
 <h3 align="center">Machine Learning Engineer @Owkin & 🤗 Hugging Face Fellow</h3>
 
-- 🔭 I’m currently working on [tensorshare](https://github.com/chainyo/tensorshare), [wordcab-transcribe](https://github.com/Wordcab/wordcab-transcribe) and [Rate That ASR](https://github.com/Wordcab/rtasr)
+- 🔭 I’m currently working on [tensorshare](https://github.com/chainyo/tensorshare)
 
 - 🌱 I’m currently learning **Rust, RLHF and how to do great maté.**
 
