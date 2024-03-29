@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [kwest.dev](https://kwest.dev)
 
-- 🌱 I’m currently learning **Rust, Svelte and **
+- 🌱 I’m currently learning **Rust, Cloudflare workers and Svelte**
 
 - 📫 How to reach me **t.chaigneau.tc@gmail.com**
 
