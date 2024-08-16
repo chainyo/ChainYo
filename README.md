@@ -1,9 +1,9 @@
 <h1 align="center">Welcome, I'm Thomas Chaigneau from France 🇫🇷</h1>
 <h3 align="center">Machine Learning Engineer @Owkin & 🤗 Hugging Face Fellow</h3>
 
-- 🔭 I’m currently working on [kwest.dev](https://kwest.dev)
+- 🔭 I’m currently working on [aipaper.dev](https://aipaper.dev)
 
-- 🌱 I’m currently learning **Rust, Cloudflare workers and Svelte**
+- 🌱 I’m currently learning **AI Agents building, Cloudflare workers and Svelte**
 
 - 📫 How to reach me **t.chaigneau.tc@gmail.com**
 
