@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI Agents building, Cloudflare workers and Svelte**
 
-- 📫 How to reach me **t.chaigneau.tc@gmail.com**
+- 📫 How to reach me **thomas@chainyo.dev**
 
 ---
 
@@ -132,11 +132,14 @@
           </td>
         </tr>
         <tr>
-          <td>Frameworks/Packages</td>
+          <td>Web frameworks</td>
           <td>
             <p align="left">
               <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fastapi.svg" alt="fastapi" width="40" height="40"/> 
+              </a>
+              <a href="https://svelte.dev/docs" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/sveltejs/branding/refs/heads/master/svelte-logo-cutout.svg" alt="svelte" width="40" height="40"/> 
               </a>
               <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
                 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> 
@@ -144,15 +147,9 @@
               <a href="https://gradio.app/" target="_blank" rel="noreferrer"> 
                 <img src="https://www.freecodecamp.org/news/content/images/2022/01/gradio-image-2.png" alt="gradio" width="40" height="40"/> 
               </a>
-              <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-              </a>
               <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
               </a>
-              <a href="https://docs.celeryproject.org/en/stable/index.html#" target="_blank" rel="noreferrer"> 
-                <img src="https://docs.celeryproject.org/en/stable/_static/celery_512.png" alt="celery" width="40" height="40"/>
-              </a> 
             </p>
           </td>
         </tr>
