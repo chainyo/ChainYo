@@ -1,9 +1,9 @@
 <h1 align="center">Welcome, I'm Thomas Chaigneau from France 🇫🇷</h1>
 <h3 align="center">Machine Learning Engineer @Owkin & 🤗 Hugging Face Fellow</h3>
 
-- 🔭 I’m currently working on [aipaper.dev](https://aipaper.dev)
+- 🔭 I’m currently working on building 12 SaaS projects in 12 months.
 
-- 🌱 I’m currently learning **AI Agents building, Cloudflare workers and Svelte**
+- 🌱 I’m currently learning **Cloudflare Serverless deployment, Typescript + React, Hono for backend**
 
 - 📫 How to reach me **thomas@chainyo.dev**
 
